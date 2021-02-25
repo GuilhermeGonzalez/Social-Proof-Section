@@ -18,7 +18,6 @@ The challenge is to build out this social proof section and get it looking as cl
 ## Sharing your solution
 
 Click [HERE](https://social-proof-section-taupe-beta.vercel.app) to see the solution.
-Screen readjustment will be developed in the future according to the user's device
 
 ## Giving feedback
 
